@@ -27,17 +27,18 @@ Analyze the engagement patterns by percentage share of total fees paid and the a
 
 ## 4. Fit Pro Overview Dashboard
 ### Objective: Identify Top 5 guests based on frequency, spend, and recency.
-###Compare Fit Pro & Others On:
+### Compare Fit Pro & Others On:
 * Percentage share of total fees paid
 * average fees paid
 * average frequency of gym visits
 <img width="1289" height="474" alt="image" src="https://github.com/user-attachments/assets/f6d26d8d-e152-4dc2-a118-44b149360a43" />
 
-## 5. 7 days Members Activity Snapshot
+## 5. Last 7 days Members Activity Snapshot
 * Compare Fit Pro and Others in last 7days
 <img width="1236" height="331" alt="image" src="https://github.com/user-attachments/assets/d39b4afd-b25f-48dc-a808-4d8522e401b1" />
 
-📈 Key Insights
+
+##  📈 Key Insights
 1. Frequent Members (6+ visits) made up a small group but contributed the majority of revenue.
 
 2. Elite Members (paid ₹800+) spent significantly more than general members.
@@ -46,7 +47,8 @@ Analyze the engagement patterns by percentage share of total fees paid and the a
 
 4. Top 5 Fit Pro Members showed highest loyalty, with frequent visits and high payments.
 
-   Recommendations
+##  ✅ Recommendations
+
 1. 🎁 Loyalty Program: Reward frequent/elite members with perks or discounts.
 
 2. 📣 Re-engagement Offers: Send special offers to inactive members to bring them back.
